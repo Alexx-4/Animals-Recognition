@@ -129,7 +129,7 @@ dmypy.json
 .pyre/
 
 # datasets
-backend/datasets/
+# backend/datasets/
 
 # model
-backend/models/
+# backend/models/
